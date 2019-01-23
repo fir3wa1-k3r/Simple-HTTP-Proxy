@@ -15,4 +15,4 @@ This is a very simple terminal based HTTP-Proxy test server which is developed m
   * Run the http-proxy.py on the machine which is dedicated for the proxy.
   * Use netcat,ncat or any similar tools to access the proxy and tunnel through it to connect to the web server
   
-**** Warning: Never run this program on production environment as this program is in the test phase ****
+***Warning: Never run this program on production environment as this program is in the test phase***
